@@ -1,2 +1,0 @@
-Expense: $22.00 | Category: food
-Expense: $102.56 | Category: dates
